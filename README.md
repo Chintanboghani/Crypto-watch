@@ -1,4 +1,4 @@
-<h1 align="center">Cryptocurrency Dashboard</h1>
+<h1 align="center">Crypto watch</h1>
 
 A crypto dashboard is a digital platform that lives on a website or an app
 (either desktop or mobile). Its primary function is to track your cryptocurrency
